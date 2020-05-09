@@ -61,8 +61,8 @@
 
 ## Contact
 
-:telephone_receiver: **+84 909 840 720**
-:airplane: **District 7, Ho Chi Minh**
-[Github](https://github.com/megaxayda)
-[Linkedin](https://www.linkedin.com/in/tai-pham-b78737128/)
+:telephone_receiver: **+84 909 840 720**  
+:airplane: **District 7, Ho Chi Minh**  
+[Github](https://github.com/megaxayda)  
+[Linkedin](https://www.linkedin.com/in/tai-pham-b78737128/)  
 :email: **phamtai2119@gmail.com**
