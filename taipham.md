@@ -49,7 +49,7 @@
 - **Role**: Full stack developer.
 - **Page**: [https://fluentup.com](https://fluentup.com)
 
-### **Front End Developer - _Saigon Technology Solutions_ - 9/2017 to 10/2018**
+### **Front End Developer - _Saigon Technology Solutions_ - 10/2017 to 10/2018**
 
 ### _5. Riskview_
 
@@ -74,7 +74,7 @@
 - **Role**: Front end developer, communicating with Australian team lead.
 - **Page**: [https://www.teamassurance.com](https://www.teamassurance.com)
 
-### **Software engineer - _Robert Bosch Engineering and Business Solutions_ - 9/2017 to 10/2018**
+### **Software engineer - _Robert Bosch Engineering and Business Solutions_ - 9/2016 to 10/2017**
 
 ### _8. Toolshop_
 
