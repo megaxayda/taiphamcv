@@ -1,35 +1,43 @@
-# TAI PHAM
+# TAI (AIDEN) PHAM
 
-**Full Stack Developer** specializing in Javascript with **3.5 years experience**. Experienced with all stages of the development cycle for **Front end** and **Back end** projects. Operated in numerous **Javascript** frameworks, libraries and databases. Deployed projects on **AWS**. Coordinated a team of fresher and junior developers. Always ready for a new challenge.
+**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years experience**. Experienced with all stages of the development cycle for **front-end** and **back-end** projects. Operated in numerous **Javascript** frameworks, libraries and databases. Deployed projects on **AWS**. Coordinated a team of fresher and junior developers. Always ready for a new challenge.
 
 ## Technical Skills :computer:
 
-- **Frontend:** HTML, CSS, React, React Native, Redux, Jquery, Websocket, Socketio, Emotion, Styled-component, Material-UI, Ant design, Openlayers.
-- **Backend:** Express, Fastify, Sailjs, GraphQL, Serverless framework.
+- **Frontend:** HTML, CSS, React, React Native, Redux, Jquery, Websocket, Socketio, Emotion, Styled-component, Material-UI, Ant design, Tailwindcss, Openlayers.
+- **Backend:** Express, Fastify, Sailjs, GraphQL, Serverless framework, mongooes, .
 - **Database:** Postgres, MySQL, MariaDB, Mongodb, Redis.
 - **Search engine:** Elasticsearch.
-- **Cloud service:** Cloudfront, S3, EC2, RDS, Lambda, API gateway, Elasticsearch service.
+- **Cloud service:** Cloudfront, S3, EC2, RDS, Lambda, API gateway, Elasticsearch service, Mongo Atlas.
 - **Container:** Docker.
 - **Web Server** : Nginx.
 
 ## Work Experience :briefcase:
 
-### **Full Stack Developer - _Spiritlabs_ - 10/2018 to present**
+### **Full Stack Developer - _VDC in partnership with PYCOGroup_ - 7/2020 to present**
+
+### _Simple Home Loan_
+
+- **Tech**: React, Redux, Graphql, Nodejs, Typescript.
+- **Description**: A miniapp for fullly processing home loan application from a customer, used by banker.
+- **Page**: Internal tools for bankers at https://www.nab.com.au
+
+### **Full Stack Developer - _Spiritlabs_ - 10/2018 to 7/2020**
 
 ### _1. SFF x Switch Go_
 
 - **Tech**: React, Redux, SocketIO, Fastify, MongoDB, Elasticsearch.
 - **Service**: AWS EC2, AWS S3, Videospace, Gevme
-- **Description**: Youtube-like video platform focusing in Fintech.
+- **Description**: Youtube-liked, video platform focusing in Fintech.
 - **Role**: Team lead, working directly with BA and PM to plan tasks and features. Coordinated teamwork using agile approach. Initialized and contributed for both FE and BE. Supporting team member to overcome issues, planing task.
-- **Achievement**: Promoted to team lead, gain experience on working with elasticsearch, win a valuable client for the company.
+- **Achievement**: Became team lead (acting), gained experience on working with elasticsearch, won a valuable client for the company.
 - **Page**: [https://go.sffxswitch.com](https://go.sffxswitch.com)
 
 ### _2. Hex Safe_
 
 - **Tech**: React, Redux, JQuery, Express, MariaDB.
 - **Description**: Institutional custody for cryptocurrencies.
-- **Role**: Full stack developer, working with designer and Back end team for smooth FE integration. Helped defining API. Prepare API for upcoming features. Contributed to In-house Node framework.
+- **Role**: Frontend developer, working with designer and Back end team for smooth FE integration. Helped defining API. Prepare API for upcoming features.
 - **Achievement**: Gained knowledge on cryptocurrency transaction.
 - **Page**: [https://hextrust.com](https://hextrust.com)
 
@@ -111,7 +119,7 @@
 - **Bachelor of Computer Science** – Sep 2016
   **Ton Duc Thang University**, Ho Chi Minh
 
-* Scored **870 out of 990** on the Test of English for International Communication (TOEIC).
+- Scored **870 out of 990** on the Test of English for International Communication (TOEIC).
 
 ## Contact
 
