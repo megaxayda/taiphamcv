@@ -20,7 +20,7 @@
 
 - **Tech**: React, Redux, Graphql, Nodejs, Typescript.
 - **Description**: A miniapp for fullly processing home loan application from a customer, used by banker. Bankers will use this app to handle all customer's information such as consents, products, financials...; by that it can quickly help the bankers to make the decision to issue a home loan.
-- **Page**: Internal tools for bankers at https://www.nab.com.au
+- **Page**: Internal tools for bankers at [https://www.nab.com.au](https://www.nab.com.au)
 
 ### **Full Stack Developer - _Spiritlabs_ - 10/2018 to 7/2020**
 
