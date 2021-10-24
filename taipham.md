@@ -1,11 +1,11 @@
-# TAI (AIDEN) PHAM
+# TAI PHAM
 
-**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years experience**. Experienced with all stages of the development cycle for **front-end** and **back-end** projects. Operated in numerous **Javascript** frameworks, libraries and databases. Deployed projects on **AWS**. Coordinated a team of fresher and junior developers. Always ready for a new challenge.
+**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years experience**. Experienced with all stages of the development cycle from **frontend** to **backend**. Operated in numerous frameworks, libraries and databases. Certificated in **AWS Cloud Practitioner**. Coordinated a team of fresher and junior developers. Always ready for a new challenge.
 
 ## Technical Skills :computer:
 
 - **Frontend:** HTML, CSS, React, React Native, Redux, Jquery, Websocket, Socketio, Emotion, Styled-component, Material-UI, Ant design, Tailwindcss, Openlayers.
-- **Backend:** Express, Fastify, Sailjs, GraphQL, Serverless framework, mongooes, .
+- **Backend:** Express, Fastify, Sailjs, GraphQL, Mongooes, Apollo Server.
 - **Database:** Postgres, MySQL, MariaDB, Mongodb, Redis.
 - **Search engine:** Elasticsearch.
 - **Cloud service:** Cloudfront, S3, EC2, RDS, Lambda, API gateway, Elasticsearch service, Mongo Atlas.
@@ -121,10 +121,14 @@
 
 - Scored **870 out of 990** on the Test of English for International Communication (TOEIC).
 
+## Certifications
+
+- **AWS Certified Cloud Practitioner** - 18 September 2021.
+
 ## Contact
 
 - :telephone_receiver: **+84 909 840 720**
-- :airplane: **District 7, Ho Chi Minh**
+- :airplane: **District 7, Ho Chi Minh City**
 - :email: **phamtai2119@gmail.com**
 - [https://taipham.dev](https://taipham.dev)
 - [Github](https://github.com/megaxayda)
