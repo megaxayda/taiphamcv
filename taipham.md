@@ -1,6 +1,6 @@
 # TAI PHAM
 
-**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years experience**. Experienced with all stages of the development cycle from **frontend** to **backend**. Operated in numerous frameworks, libraries and databases. Certificated in **AWS Cloud Practitioner**. Coordinated a team of fresher and junior developers. Always ready for a new challenge.
+**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years of experience**. I have solid experience with all stages of the development cycle from **frontend** to **backend**, as well as operating in numerous frameworks, libraries, and databases. I also possess a certificate in **AWS Cloud Practitioner**. Speaking about management, I have also coordinated a team of fresher and junior developers.
 
 ## Technical Skills :computer:
 
@@ -20,6 +20,7 @@
 
 - **Tech**: React, Redux, Graphql, Nodejs, Typescript.
 - **Description**: A miniapp for fullly processing home loan application from a customer, used by banker. Bankers will use this app to handle all customer's information such as consents, products, financials...; by that it can quickly help the bankers to make the decision to issue a home loan.
+- **Role**: Senior Fullstack Engineer.
 - **Page**: Internal tools for bankers at [https://www.nab.com.au](https://www.nab.com.au)
 
 ### **Full Stack Developer - _Spiritlabs_ - 10/2018 to 7/2020**
@@ -116,8 +117,7 @@
 
 ## Education :mortar_board:
 
-- **Bachelor of Computer Science** – Sep 2016
-  **Ton Duc Thang University**, Ho Chi Minh
+- **Bachelor of Computer Science** – Sep 2016 - **Ton Duc Thang University**, Ho Chi Minh City
 
 - Scored **870 out of 990** on the Test of English for International Communication (TOEIC).
 
