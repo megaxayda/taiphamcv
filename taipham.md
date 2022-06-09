@@ -1,6 +1,6 @@
 # TAI PHAM
 
-**Full Stack Developer** specializing in Javascript/Typescript with more than **4 years of experience**. I have solid experience with all stages of the development cycle from **frontend** to **backend**, as well as operating in numerous frameworks, libraries, and databases. I also possess a certificate in **AWS Cloud Practitioner**. Speaking about management, I have also coordinated a team of fresher and junior developers.
+**Full Stack Developer** specializing in Javascript/Typescript with more than **5 years of experience**. I have solid experience with all stages of the development cycle from **frontend** to **backend**, as well as operating in numerous frameworks, libraries, and databases. I also possess a certificate in **AWS Cloud Practitioner**. Speaking about management, I have also coordinated a team of fresher and junior developers.
 
 ## Technical Skills :computer:
 
@@ -16,16 +16,16 @@
 
 ### **Full Stack Developer - _VDC in partnership with PYCOGroup_ - 7/2020 to present**
 
-### _Simple Home Loan_
+### _1. Simple Home Loan_
 
 - **Tech**: React, Redux, Graphql, Nodejs, Typescript.
-- **Description**: A miniapp for fullly processing home loan application from a customer, used by banker. Bankers will use this app to handle all customer's information such as consents, products, financials...; by that it can quickly help the bankers to make the decision to issue a home loan.
+- **Description**: A miniapp for fully processing home loan application from a customer, used by banker. Bankers will use this app to handle all customer's information such as consents, products, financials...; by that it can quickly help the bankers to make the decision to issue a home loan.
 - **Role**: Senior Fullstack Engineer.
 - **Page**: Internal tools for bankers at [https://www.nab.com.au](https://www.nab.com.au)
 
 ### **Full Stack Developer - _Spiritlabs_ - 10/2018 to 7/2020**
 
-### _1. SFF x Switch Go_
+### _2. SFF x Switch Go_
 
 - **Tech**: React, Redux, SocketIO, Fastify, MongoDB, Elasticsearch.
 - **Service**: AWS EC2, AWS S3, Videospace, Gevme
@@ -34,7 +34,7 @@
 - **Achievement**: Became team lead (acting), gained experience on working with elasticsearch, won a valuable client for the company.
 - **Page**: [https://go.sffxswitch.com](https://go.sffxswitch.com)
 
-### _2. Hex Safe_
+### _3. Hex Safe_
 
 - **Tech**: React, Redux, JQuery, Express, MariaDB.
 - **Description**: Institutional custody for cryptocurrencies.
@@ -42,7 +42,7 @@
 - **Achievement**: Gained knowledge on cryptocurrency transaction.
 - **Page**: [Hexsafe](https://hextrust.com/custody-services/safekeeping)
 
-### _3. Teemie_
+### _4. Teemie_
 
 - **Tech**: React, Redux, React native, Sailjs, MongoDB.
 - **Service**: AWS EC2, AWS S3, Visual Studio App Center.
@@ -50,7 +50,7 @@
 - **Role**: Full stack developer, contributed to web app (manager),mobile app (staff) and server.
 - **Page**: [https://teemieapp.com](https://teemieapp.com)
 
-### _4. Fluentup_
+### _5. Fluentup_
 
 - **Tech**: React, Redux, Expressjs, MongoDB.
 - **Service**: AWS EC2, AWS S3.
@@ -60,7 +60,7 @@
 
 ### **Front End Developer - _Saigon Technology Solutions_ - 10/2017 to 10/2018**
 
-### _5. Riskview_
+### _6. Riskview_
 
 - **Tech**: React Native, Redux saga.
 - **Description**: Risk and assurance management app.
@@ -68,7 +68,7 @@
 - **Achievement**: Promoted to Intermediate developer, gained experience in files uploading and downloading for both ios and android.
 - **Page**: [https://apps.apple.com/us/app/meercat-riskview/id1279108658](https://apps.apple.com/us/app/meercat-riskview/id1279108658)
 
-### _6. Fiviva_
+### _7. Fiviva_
 
 - **Tech**: React Native, Redux.
 - **Service**: Quickblox.
@@ -76,7 +76,7 @@
 - **Role**: Front end developer, implemented Quickblox messaging service.
 - **Achievement**: Get experience in implementing messaging system using Quickblox.
 
-### _7. TeamAssurance_
+### _8. TeamAssurance_
 
 - **Tech**: React, Redux.
 - **Description**: Team management web app.
@@ -85,21 +85,21 @@
 
 ### **Software engineer - _Robert Bosch Engineering and Business Solutions_ - 9/2016 to 10/2017**
 
-### _8. Toolshop_
+### _9. Toolshop_
 
 - **Tech**: React, Redux.
 - **Description**: A guide web app for displaying seat, room and building locations around workplace.
 - **Role**: Front end developer.
 - **Achievement**: Gained experience in implementing live chart, optimized components.
 
-### _9. Seat Tracking_
+### _10. Seat Tracking_
 
 - **Tech**: React, Redux.
 - **Description**: To be used locally on factory side, for monitoring machines and managing tools.
 - **Role**: Front end developer.
 - **Achievement**: Gained experience in working with SVG.
 
-### _10. MineSmart_
+### _11. MineSmart_
 
 - **Tech**: React, Redux, Openlayers.
 - **Description**: Using Openlayers to create a controllers panel then users can use these controllers to draw, edit features on a map.
